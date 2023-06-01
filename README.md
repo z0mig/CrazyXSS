@@ -4,4 +4,4 @@ This little script tries to collect all subdomains of a target domain by using a
 
 After collecting the subdomains it tries to look for parameters in which a Reflected XSS can be injected.
 
-The idea is to gather the information received in the BurpSuite intruder and thus try to get Reflected XSS.
+The idea is to gather the information received in the BurpSuite intruder and thus try to get Reflected XSS. Ideal for bug bounty :)
